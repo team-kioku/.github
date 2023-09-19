@@ -5,11 +5,6 @@ title: 'feature: '
 labels: 'feature'
 ---
 
----
-name: feature
-about: 機能実装の場合はこちら
----
-
 （例は消してください）
 
 ## 機能概要
